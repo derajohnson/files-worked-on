@@ -12,9 +12,13 @@
 
 
 # Task 2
-1. upload file functionality - [link here](https://github.com/maura-dev/Decentralized-Library/commit/006ec5e16cab19b29e40773462b748ef5f3283b8)
+1. upload file functionality - 
+* [link here](https://github.com/maura-dev/Decentralized-Library/commit/006ec5e16cab19b29e40773462b748ef5f3283b8)
+* [link here](https://github.com/maura-dev/Decentralized-Library/commit/2fa1f16c52166083ea49d197789eb4933af40c13)
 
-2. upload ui and linking to smart contract - [link here](https://github.com/maura-dev/Decentralized-Library/commit/605ee73b0f64aedf3389ec0f6ea23e0d4fb58a97)
+2. upload ui and linking to smart contract - 
+* [link here](https://github.com/maura-dev/Decentralized-Library/commit/605ee73b0f64aedf3389ec0f6ea23e0d4fb58a97)
+* [link here](https://github.com/maura-dev/Decentralized-Library/commit/3ad2f69bd3effcdf9826d591e4a4b91b7e423c81)
 
 3. readme file - [link here](https://github.com/maura-dev/Decentralized-Library/commit/436a4c43d7636f4d9e726ec849922591d2a7c2c6)
 
